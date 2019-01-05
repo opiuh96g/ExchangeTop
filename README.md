@@ -1,6 +1,6 @@
 # ExchangeTop
 
-ExchangeTop [Beta]
+ExchTop [Beta]
 
 
 * Contains a list of 30 popular exchanges
